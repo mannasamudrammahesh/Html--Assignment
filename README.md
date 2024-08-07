@@ -1,2 +1,81 @@
-# Html--Assignment
-I developed a simple web page using html
+---HTML---
+<!DOCTYPE html>
+<html>
+<head> <title>HTML</title></head>
+<body>
+<div>
+<header> 
+<section>
+<h1>What are the health benefits of eating grapes? </h1>
+<img src="https://th.bing.com/th/id/OIP.-TrZzkKr0krAbe88Br6__wHaEH?w=304&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="grapes">
+</section>
+</header>
+<main>
+<aside>
+<h4>Eating grapes can offer several health benefits. Some of the benefits of eating grapes include:</h4>
+<ul>
+<li>Helping your immune system fight against bacterial and viral infections like yeast infections due to their high vitamin C content. </li>
+<li>Preventing cancer. </li>
+<li>Lowering blood pressure. </li>
+<li> Protecting against heart disease.</li>
+<li>Being a good source of fiber and water.</li>
+</ul>
+<img src="https://th.bing.com/th/id/OIP.ME6u5XWKiA41gwVH82CIygHaEx?w=238&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="grapes">
+<ul>
+<li> Reducing high cholesterol.</li>
+<li>Protecting against diabetes.</li>
+<li> Helping maintain brain health.</li>
+<li>Improving bone health.</li>
+<li>Being packed with vitamin C, vitamin K, and potassium4. </p></li>
+ </ul>
+</aside>
+<h3>
+<p>For more information refer this <a href="https://www.healthline.com/nutrition/benefits-of-grapes">link</a> </p> </h3>
+</main>
+<div>
+<h2>Login</h2>
+<form>
+<labelfor="user" >Username:</label>
+<input type="text" id="user"><br>
+<label for="pass">Password: </label>
+<input type="password" id="pass" ><br>
+<p> Do You Have Already An Account ? <a href="sign in">Sign In</a> </p>
+<button>Login</button><br><br>
+</form>
+</div>
+<div>
+<table>
+<tr>
+<th>Fruit Name </th>
+<th>Health Benifits</th>
+</tr>
+<tr> 
+<td>Grapes</td>
+<td>Lowering blood pressure </td>
+</tr>
+<tr>
+<td>Grapes </td>
+<td>Preventing cancer </td>
+ </tr>
+<tr>
+  <td>Grapes </td>
+<td>Protecting against heart disease </td>
+</tr>
+</table>
+</div>
+<footer>
+<article><hr>
+<h2>Healthline </h2>
+<div>
+<a href="#">About Us</a> <br>
+<a href="#">Contact Us </a><br>
+<a href="#">Privacy Policy </a><br><br>
+Follow Us On <a href="https://instagram.com"><img src="https://img.icons8.com/?size=48&id=Xy10Jcu1L2Su&format=png">Instagram</a> <a href="https://telegram.com"><img src="https://img.icons8.com/?size=48&id=63306&format=png">Telegram</a> <a href="https://youtube.com"><img src="https://img.icons8.com/?size=48&id=19318&format=png">Youtube</a> <a href="https://facebook.com">  <img src="https://img.icons8.com/?size=48&id=uLWV5A9vXIPu&format=png">Facebook</a><br><br>
+
+<p>© 2024 Healthline Media LLC. All rights reserved. Our website services, content, and products are for informational purposes only. Healthline Media does not provide medical advice, diagnosis, or treatment. See additional information. See additional information. </p>
+</div>
+</article>
+</footer>
+</div>
+</body>
+</html>
