@@ -1,5 +1,5 @@
 ---HTML---
-<!DOCTYPE html>
+=<!DOCTYPE html>
 <html>
 <head> <title>HTML</title></head>
 <body>
@@ -28,21 +28,6 @@
 <li>Improving bone health.</li>
 <li>Being packed with vitamin C, vitamin K, and potassium4. </p></li>
  </ul>
-</aside>
-<h3>
-<p>For more information refer this <a href="https://www.healthline.com/nutrition/benefits-of-grapes">link</a> </p> </h3>
-</main>
-<div>
-<h2>Login</h2>
-<form>
-<labelfor="user" >Username:</label>
-<input type="text" id="user"><br>
-<label for="pass">Password: </label>
-<input type="password" id="pass" ><br>
-<p> Do You Have Already An Account ? <a href="sign in">Sign In</a> </p>
-<button>Login</button><br><br>
-</form>
-</div>
 <div>
 <table>
 <tr>
@@ -62,6 +47,21 @@
 <td>Protecting against heart disease </td>
 </tr>
 </table>
+</div>
+</aside>
+<h3>
+<p>For more information refer this <a href="https://www.healthline.com/nutrition/benefits-of-grapes">link</a> </p> </h3>
+</main> <hr>
+<div>
+<h2>Login</h2>
+<form>
+<labelfor="user" >Username:</label>
+<input type="text" id="user" placeholder="Enter Username"><br>
+<label for="pass">Password: </label>
+<input type="password" id="pass" placeholder="Enter Password" ><br>
+<p> Do You Have Already An Account ? <a href="sign in">Sign In</a> </p>
+<button>Login</button><br><br>
+</form>
 </div>
 <footer>
 <article><hr>
